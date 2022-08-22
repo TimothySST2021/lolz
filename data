@@ -1,0 +1,548 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "Name": "Touch Community Services: 301 Thrift Mart",
+            "description": "Recycle 2nd hand clothes, electrical appliances, CDs, VCDs, toys, household items, clothes, bags, ladies' accessories, computers & peripherals. Please check website for operating hours.",
+            "LANDYADDRESSPOINT": null,
+            "LANDXADDRESSPOINT": null,
+            "PHOTOURL": null,
+            "HYPERLINK": "http:\/\/www.touch.org.sg\/our-services\/special-needs-services\/touch-ubi-hostel",
+            "ADDRESSUNITNUMBER": "#01-295",
+            "ADDRESSSTREETNAME": "Ubi Avenue 1",
+            "ADDRESSPOSTALCODE": "400301",
+            "ADDRESSFLOORNUMBER": null,
+            "ADDRESSBUILDINGNAME": null,
+            "ADDRESSBLOCKHOUSENUMBER": "301",
+            "INC_CRC": "7DAB7DF628B09F86",
+            "FMEL_UPD_D": "20171130115650"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.901953043814004,
+                1.33068803025928
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Name": "Cash Converters",
+            "description": "Daily 10:30am to 9:00pm",
+            "LANDYADDRESSPOINT": null,
+            "LANDXADDRESSPOINT": null,
+            "PHOTOURL": null,
+            "HYPERLINK": "http:\/\/www.cashconvertersasia.com\/sg\/",
+            "ADDRESSUNITNUMBER": "#01-2625",
+            "ADDRESSSTREETNAME": "Ang Mo Kio Avenue 8",
+            "ADDRESSPOSTALCODE": "561710",
+            "ADDRESSFLOORNUMBER": null,
+            "ADDRESSBUILDINGNAME": null,
+            "ADDRESSBLOCKHOUSENUMBER": "710A",
+            "INC_CRC": "7AEBBD99E71D4337",
+            "FMEL_UPD_D": "20171103093247"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.847868789811002,
+                1.3707312731343
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Name": "Cash Converters",
+            "description": "Daily 10:30am to 9:00pm",
+            "LANDYADDRESSPOINT": null,
+            "LANDXADDRESSPOINT": null,
+            "PHOTOURL": null,
+            "HYPERLINK": "http:\/\/www.cashconvertersasia.com\/sg\/",
+            "ADDRESSUNITNUMBER": "#01-355",
+            "ADDRESSSTREETNAME": "Bedok North Street 1",
+            "ADDRESSPOSTALCODE": "460206",
+            "ADDRESSFLOORNUMBER": null,
+            "ADDRESSBUILDINGNAME": null,
+            "ADDRESSBLOCKHOUSENUMBER": "206",
+            "INC_CRC": "13085C9CE279CC1B",
+            "FMEL_UPD_D": "20171103093247"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.930861572812006,
+                1.32647173014785
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Name": "Cash Converters",
+            "description": "Daily 10:30am to 9:00pm",
+            "LANDYADDRESSPOINT": null,
+            "LANDXADDRESSPOINT": null,
+            "PHOTOURL": null,
+            "HYPERLINK": "http:\/\/www.cashconvertersasia.com\/sg\/",
+            "ADDRESSUNITNUMBER": null,
+            "ADDRESSSTREETNAME": "Eu Tong Sen Street",
+            "ADDRESSPOSTALCODE": "59810",
+            "ADDRESSFLOORNUMBER": null,
+            "ADDRESSBUILDINGNAME": "The Majestic Theatre",
+            "ADDRESSBLOCKHOUSENUMBER": "80",
+            "INC_CRC": "1510FDA9EA8D5E31",
+            "FMEL_UPD_D": "20171103093247"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.843197418792997,
+                1.28471077205877
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Name": "Cash Converters",
+            "description": "Daily 10:30am to 9:00pm",
+            "LANDYADDRESSPOINT": null,
+            "LANDXADDRESSPOINT": null,
+            "PHOTOURL": null,
+            "HYPERLINK": "http:\/\/www.cashconvertersasia.com\/sg\/",
+            "ADDRESSUNITNUMBER": "#01-315",
+            "ADDRESSSTREETNAME": "Jurong East Street 13",
+            "ADDRESSPOSTALCODE": "600135",
+            "ADDRESSFLOORNUMBER": null,
+            "ADDRESSBUILDINGNAME": null,
+            "ADDRESSBLOCKHOUSENUMBER": "135",
+            "INC_CRC": "6D7812A15F1B8AA9",
+            "FMEL_UPD_D": "20171103093247"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.739371389065994,
+                1.33375343289469
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Name": "Cash Converters",
+            "description": "Daily 10:30am to 9:00pm",
+            "LANDYADDRESSPOINT": null,
+            "LANDXADDRESSPOINT": null,
+            "PHOTOURL": null,
+            "HYPERLINK": "http:\/\/www.cashconvertersasia.com\/sg\/",
+            "ADDRESSUNITNUMBER": "#01-250",
+            "ADDRESSSTREETNAME": "Tampines Central 1",
+            "ADDRESSPOSTALCODE": "520510",
+            "ADDRESSFLOORNUMBER": null,
+            "ADDRESSBUILDINGNAME": null,
+            "ADDRESSBLOCKHOUSENUMBER": "510",
+            "INC_CRC": "3979883D4D270EBE",
+            "FMEL_UPD_D": "20171103093247"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.944458087634004,
+                1.35480107032778
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Name": "Cash Converters",
+            "description": "Daily 10:30am to 9:00pm",
+            "LANDYADDRESSPOINT": null,
+            "LANDXADDRESSPOINT": null,
+            "PHOTOURL": null,
+            "HYPERLINK": "http:\/\/www.cashconvertersasia.com\/sg\/",
+            "ADDRESSUNITNUMBER": "#01-674",
+            "ADDRESSSTREETNAME": "Toa Payoh Lorong 4",
+            "ADDRESSPOSTALCODE": "310192",
+            "ADDRESSFLOORNUMBER": null,
+            "ADDRESSBUILDINGNAME": null,
+            "ADDRESSBLOCKHOUSENUMBER": "192",
+            "INC_CRC": "BA39386525A3B560",
+            "FMEL_UPD_D": "20171103093247"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.850483008705993,
+                1.33166183429417
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Name": "MINDS Shop",
+            "description": "Recycle 2nd hand furniture, clothes, collectibles and housewares. Please check website for operating hours.",
+            "LANDYADDRESSPOINT": null,
+            "LANDXADDRESSPOINT": null,
+            "PHOTOURL": null,
+            "HYPERLINK": "http:\/\/www.minds.org.sg\/Shop.html",
+            "ADDRESSUNITNUMBER": null,
+            "ADDRESSSTREETNAME": "Margaret Drive",
+            "ADDRESSPOSTALCODE": "149310",
+            "ADDRESSFLOORNUMBER": null,
+            "ADDRESSBUILDINGNAME": "MINDS Shop@Margaret",
+            "ADDRESSBLOCKHOUSENUMBER": "800",
+            "INC_CRC": "44102FB64EE99954",
+            "FMEL_UPD_D": "20171103093247"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.812976187253994,
+                1.29539368902809
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Name": "MINDS Shop",
+            "description": "Recycle 2nd hand furniture, clothes, collectibles and housewares. Please check website for operating hours.",
+            "LANDYADDRESSPOINT": null,
+            "LANDXADDRESSPOINT": null,
+            "PHOTOURL": null,
+            "HYPERLINK": "http:\/\/www.minds.org.sg\/Shop.html",
+            "ADDRESSUNITNUMBER": null,
+            "ADDRESSSTREETNAME": "Woodlands Ring Road",
+            "ADDRESSPOSTALCODE": "737883",
+            "ADDRESSFLOORNUMBER": null,
+            "ADDRESSBUILDINGNAME": "MINDS Shop@Woodlands",
+            "ADDRESSBLOCKHOUSENUMBER": "30",
+            "INC_CRC": "D6A5C034C70C078D",
+            "FMEL_UPD_D": "20171103093247"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.797867618606006,
+                1.43719012091055
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Name": "MINDS Shop",
+            "description": "Recycle 2nd hand furniture, clothes, collectibles and housewares. Please check website for operating hours.",
+            "LANDYADDRESSPOINT": null,
+            "LANDXADDRESSPOINT": null,
+            "PHOTOURL": null,
+            "HYPERLINK": "http:\/\/www.minds.org.sg\/Shop.html",
+            "ADDRESSUNITNUMBER": null,
+            "ADDRESSSTREETNAME": "Rosyth Road",
+            "ADDRESSPOSTALCODE": "546190",
+            "ADDRESSFLOORNUMBER": null,
+            "ADDRESSBUILDINGNAME": "MINDS Shop@Rosyth",
+            "ADDRESSBLOCKHOUSENUMBER": "29",
+            "INC_CRC": "B028272B087F9F7F",
+            "FMEL_UPD_D": "20171103093247"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.877736346047996,
+                1.36278695872793
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Name": "MINDS Shop",
+            "description": "Recycle 2nd hand furniture, clothes, collectibles and housewares. Please check website for operating hours.",
+            "LANDYADDRESSPOINT": null,
+            "LANDXADDRESSPOINT": null,
+            "PHOTOURL": null,
+            "HYPERLINK": "http:\/\/www.minds.org.sg\/Shop.html",
+            "ADDRESSUNITNUMBER": null,
+            "ADDRESSSTREETNAME": "Lorong Napiri",
+            "ADDRESSPOSTALCODE": "547533",
+            "ADDRESSFLOORNUMBER": null,
+            "ADDRESSBUILDINGNAME": "MINDS Shop@Napiri",
+            "ADDRESSBLOCKHOUSENUMBER": "7",
+            "INC_CRC": "74DFCBA9A31FCCF7",
+            "FMEL_UPD_D": "20171103093247"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.878449270914999,
+                1.37181648298855
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Name": "MINDS Shop",
+            "description": "Recycle 2nd hand furniture, clothes, collectibles and housewares. Please check website for operating hours.",
+            "LANDYADDRESSPOINT": null,
+            "LANDXADDRESSPOINT": null,
+            "PHOTOURL": null,
+            "HYPERLINK": "http:\/\/www.minds.org.sg\/Shop.html",
+            "ADDRESSUNITNUMBER": "#01-29",
+            "ADDRESSSTREETNAME": "Redhill Road",
+            "ADDRESSPOSTALCODE": "150071",
+            "ADDRESSFLOORNUMBER": null,
+            "ADDRESSBUILDINGNAME": "MINDS Shop Plus@NTUC Eldercare Silver Activity Centre",
+            "ADDRESSBLOCKHOUSENUMBER": "71",
+            "INC_CRC": "8E8AEB22C1ACFD12",
+            "FMEL_UPD_D": "20171103093247"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.817475623896001,
+                1.28731902765015
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Name": "The Salvation Army",
+            "description": "Recycle 2nd hand clothing, furniture, household goods, electronic devices, toys and books. Please check website for operating hours.",
+            "LANDYADDRESSPOINT": null,
+            "LANDXADDRESSPOINT": null,
+            "PHOTOURL": null,
+            "HYPERLINK": "http:\/\/www.salvationarmy.org\/singapore\/dik_fts",
+            "ADDRESSUNITNUMBER": null,
+            "ADDRESSSTREETNAME": "Upper Bukit Timah Road",
+            "ADDRESSPOSTALCODE": "678106",
+            "ADDRESSFLOORNUMBER": null,
+            "ADDRESSBUILDINGNAME": "Praisehaven",
+            "ADDRESSBLOCKHOUSENUMBER": "500",
+            "INC_CRC": "C2CC6860634AA581",
+            "FMEL_UPD_D": "20171103093247"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.768209414105002,
+                1.36237213323
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Name": "The Salvation Army",
+            "description": "Recycle 2nd hand clothing, furniture, household goods, electronic devices, toys and books. Please check website for operating hours.",
+            "LANDYADDRESSPOINT": null,
+            "LANDXADDRESSPOINT": null,
+            "PHOTOURL": null,
+            "HYPERLINK": "http:\/\/www.salvationarmy.org\/singapore\/dik_fts",
+            "ADDRESSUNITNUMBER": null,
+            "ADDRESSSTREETNAME": "Tanglin Road",
+            "ADDRESSPOSTALCODE": "247674",
+            "ADDRESSFLOORNUMBER": null,
+            "ADDRESSBUILDINGNAME": "Tanglin Family Hub",
+            "ADDRESSBLOCKHOUSENUMBER": "356",
+            "INC_CRC": "A0763648693F28B0",
+            "FMEL_UPD_D": "20171103093247"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.815073339799,
+                1.29476320096751
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Name": "The Salvation Army",
+            "description": "Recycle 2nd hand clothing, furniture, household goods, electronic devices, toys and books. Please check website for operating hours.",
+            "LANDYADDRESSPOINT": null,
+            "LANDXADDRESSPOINT": null,
+            "PHOTOURL": null,
+            "HYPERLINK": "http:\/\/www.salvationarmy.org\/singapore\/dik_fts",
+            "ADDRESSUNITNUMBER": null,
+            "ADDRESSSTREETNAME": "Upper Changi Road North",
+            "ADDRESSPOSTALCODE": "507705",
+            "ADDRESSFLOORNUMBER": null,
+            "ADDRESSBUILDINGNAME": "The Salvation Army Hope Centre",
+            "ADDRESSBLOCKHOUSENUMBER": "7",
+            "INC_CRC": "577569925DBC0374",
+            "FMEL_UPD_D": "20171103093247"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.965141277539004,
+                1.35332836586401
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Name": "The Salvation Army",
+            "description": "Recycle 2nd hand clothing, furniture, household goods, electronic devices, toys and books. Please check website for operating hours.",
+            "LANDYADDRESSPOINT": null,
+            "LANDXADDRESSPOINT": null,
+            "PHOTOURL": null,
+            "HYPERLINK": "http:\/\/www.salvationarmy.org\/singapore\/dik_fts",
+            "ADDRESSUNITNUMBER": null,
+            "ADDRESSSTREETNAME": "Bishan Street 22",
+            "ADDRESSPOSTALCODE": "579768",
+            "ADDRESSFLOORNUMBER": null,
+            "ADDRESSBUILDINGNAME": "The Salvation Army Headquarters",
+            "ADDRESSBLOCKHOUSENUMBER": "20",
+            "INC_CRC": "D62A5F5B03EBB4E7",
+            "FMEL_UPD_D": "20171103093247"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.842518361892999,
+                1.36096595232195
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Name": "The Salvation Army",
+            "description": "Recycle 2nd hand clothing, furniture, household goods, electronic devices, toys and books. Please check website for operating hours.",
+            "LANDYADDRESSPOINT": null,
+            "LANDXADDRESSPOINT": null,
+            "PHOTOURL": null,
+            "HYPERLINK": "http:\/\/www.salvationarmy.org\/singapore\/dik_fts",
+            "ADDRESSUNITNUMBER": null,
+            "ADDRESSSTREETNAME": "Pasir Panjang Road",
+            "ADDRESSPOSTALCODE": "118692",
+            "ADDRESSFLOORNUMBER": null,
+            "ADDRESSBUILDINGNAME": "The Haven",
+            "ADDRESSBLOCKHOUSENUMBER": "350",
+            "INC_CRC": "355F9FBA69AF6048",
+            "FMEL_UPD_D": "20171103093247"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.775883852988997,
+                1.29042903448092
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Name": "The Salvation Army",
+            "description": "Recycle 2nd hand clothing, furniture, household goods, electronic devices, toys and books. Please check website for operating hours.",
+            "LANDYADDRESSPOINT": null,
+            "LANDXADDRESSPOINT": null,
+            "PHOTOURL": null,
+            "HYPERLINK": "http:\/\/www.salvationarmy.org\/singapore\/dik_fts",
+            "ADDRESSUNITNUMBER": null,
+            "ADDRESSSTREETNAME": "Jurong East Street 21",
+            "ADDRESSPOSTALCODE": "609601",
+            "ADDRESSFLOORNUMBER": null,
+            "ADDRESSBUILDINGNAME": "IMM Open Car Park",
+            "ADDRESSBLOCKHOUSENUMBER": "2",
+            "INC_CRC": "9D5617DFCBC2D120",
+            "FMEL_UPD_D": "20171103093247"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.746734495002997,
+                1.33489843898343
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Name": "The Salvation Army",
+            "description": "Recycle 2nd hand clothing, furniture, household goods, electronic devices, toys and books. Please check website for operating hours.",
+            "LANDYADDRESSPOINT": null,
+            "LANDXADDRESSPOINT": null,
+            "PHOTOURL": null,
+            "HYPERLINK": "http:\/\/www.salvationarmy.org\/singapore\/dik_fts",
+            "ADDRESSUNITNUMBER": null,
+            "ADDRESSSTREETNAME": "Mandai Link Road",
+            "ADDRESSPOSTALCODE": "728650",
+            "ADDRESSFLOORNUMBER": null,
+            "ADDRESSBUILDINGNAME": "Mandai Station at Smart Energy Pte. Ltd.",
+            "ADDRESSBLOCKHOUSENUMBER": "1",
+            "INC_CRC": "0194707AEEFB4EE1",
+            "FMEL_UPD_D": "20171103093247"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.757754241016002,
+                1.41118970963686
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Name": "PC Dreams",
+            "description": "Trade-in and sales of pre-owned\/ demo\/ display and refurbished laptops and other portable electronic devices such as smart phones and tablets.",
+            "LANDYADDRESSPOINT": null,
+            "LANDXADDRESSPOINT": null,
+            "PHOTOURL": null,
+            "HYPERLINK": "http:\/\/pcdreams.com.sg\/our-showroom\/",
+            "ADDRESSUNITNUMBER": "#04-04",
+            "ADDRESSSTREETNAME": "Rochor Canal Road",
+            "ADDRESSPOSTALCODE": "188504",
+            "ADDRESSFLOORNUMBER": null,
+            "ADDRESSBUILDINGNAME": "Sim Lim Square",
+            "ADDRESSBLOCKHOUSENUMBER": "1",
+            "INC_CRC": "745AD211CEC9D708",
+            "FMEL_UPD_D": "20171103093247"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.852875623027003,
+                1.30302299524145
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Name": "PC Dreams",
+            "description": "Trade-in and sales of pre-owned\/ demo\/ display and refurbished laptops and other portable electronic devices such as smart phones and tablets.",
+            "LANDYADDRESSPOINT": null,
+            "LANDXADDRESSPOINT": null,
+            "PHOTOURL": null,
+            "HYPERLINK": "http:\/\/pcdreams.com.sg\/our-showroom\/",
+            "ADDRESSUNITNUMBER": "#03-25",
+            "ADDRESSSTREETNAME": "Victoria Street",
+            "ADDRESSPOSTALCODE": "188021",
+            "ADDRESSFLOORNUMBER": null,
+            "ADDRESSBUILDINGNAME": "Bugis Junction",
+            "ADDRESSBLOCKHOUSENUMBER": "200",
+            "INC_CRC": "D641A126A07F27DE",
+            "FMEL_UPD_D": "20171103093247"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.855327954497,
+                1.29906799078836
+            ]
+        }
+    }
+]
